@@ -1,0 +1,2000 @@
+Topic# 0>> number of words got assigned = 25
+Topic# 1>> number of words got assigned = 25
+Topic# 2>> number of words got assigned = 4
+Topic# 3>> number of words got assigned = 25
+Topic# 4>> number of words got assigned = 24
+Topic# 5>> number of words got assigned = 25
+Topic# 6>> number of words got assigned = 25
+Topic# 7>> number of words got assigned = 25
+Topic# 8>> number of words got assigned = 11
+Topic# 9>> number of words got assigned = 25
+Topic# 10>> number of words got assigned = 20
+Topic# 11>> ###################################### No words assigned!!!
+Topic# 12>> ###################################### No words assigned!!!
+Topic# 13>> number of words got assigned = 25
+Topic# 14>> number of words got assigned = 25
+Topic# 15>> number of words got assigned = 25
+Topic# 16>> number of words got assigned = 25
+Topic# 17>> number of words got assigned = 5
+Topic# 18>> number of words got assigned = 25
+Topic# 19>> number of words got assigned = 2
+Topic# 20>> number of words got assigned = 25
+Topic# 21>> number of words got assigned = 25
+Topic# 22>> number of words got assigned = 25
+Topic# 23>> number of words got assigned = 19
+Topic# 24>> number of words got assigned = 25
+Topic# 25>> number of words got assigned = 5
+Topic# 26>> number of words got assigned = 3
+Topic# 27>> ###################################### No words assigned!!!
+Topic# 28>> number of words got assigned = 25
+Topic# 29>> number of words got assigned = 22
+Topic# 30>> number of words got assigned = 1
+Topic# 31>> number of words got assigned = 25
+Topic# 32>> number of words got assigned = 25
+Topic# 33>> number of words got assigned = 25
+Topic# 34>> number of words got assigned = 25
+Topic# 35>> number of words got assigned = 1
+Topic# 36>> number of words got assigned = 25
+Topic# 37>> ###################################### No words assigned!!!
+Topic# 38>> number of words got assigned = 25
+Topic# 39>> number of words got assigned = 25
+Topic# 40>> number of words got assigned = 25
+Topic# 41>> number of words got assigned = 25
+Topic# 42>> number of words got assigned = 25
+Topic# 43>> number of words got assigned = 25
+Topic# 44>> number of words got assigned = 25
+Topic# 45>> number of words got assigned = 2
+Topic# 46>> ###################################### No words assigned!!!
+Topic# 47>> number of words got assigned = 25
+Topic# 48>> number of words got assigned = 25
+Topic# 49>> number of words got assigned = 25
+Topic# 50>> number of words got assigned = 25
+Topic# 51>> number of words got assigned = 25
+Topic# 52>> ###################################### No words assigned!!!
+Topic# 53>> ###################################### No words assigned!!!
+Topic# 54>> number of words got assigned = 25
+Topic# 55>> number of words got assigned = 25
+Topic# 56>> number of words got assigned = 25
+Topic# 57>> number of words got assigned = 25
+Topic# 58>> number of words got assigned = 25
+Topic# 59>> number of words got assigned = 1
+Topic# 60>> number of words got assigned = 2
+Topic# 61>> number of words got assigned = 7
+Topic# 62>> number of words got assigned = 25
+Topic# 63>> number of words got assigned = 25
+Topic# 64>> number of words got assigned = 25
+Topic# 65>> number of words got assigned = 25
+Topic# 66>> number of words got assigned = 25
+Topic# 67>> number of words got assigned = 25
+Topic# 68>> ###################################### No words assigned!!!
+Topic# 69>> number of words got assigned = 22
+Topic# 70>> number of words got assigned = 4
+Topic# 71>> number of words got assigned = 25
+Topic# 72>> ###################################### No words assigned!!!
+Topic# 73>> number of words got assigned = 25
+Topic# 74>> number of words got assigned = 25
+Topic# 75>> number of words got assigned = 25
+Topic# 76>> ###################################### No words assigned!!!
+Topic# 77>> number of words got assigned = 9
+Topic# 78>> number of words got assigned = 25
+Topic# 79>> number of words got assigned = 25
+Topic# 80>> number of words got assigned = 3
+Topic# 81>> number of words got assigned = 25
+Topic# 82>> number of words got assigned = 10
+Topic# 83>> number of words got assigned = 2
+Topic# 84>> number of words got assigned = 25
+Topic# 85>> number of words got assigned = 25
+Topic# 86>> number of words got assigned = 25
+Topic# 87>> number of words got assigned = 25
+Topic# 88>> ###################################### No words assigned!!!
+Topic# 89>> number of words got assigned = 11
+Topic# 90>> number of words got assigned = 25
+Topic# 91>> number of words got assigned = 2
+Topic# 92>> number of words got assigned = 25
+Topic# 93>> number of words got assigned = 2
+Topic# 94>> number of words got assigned = 23
+Topic# 95>> number of words got assigned = 2
+Topic# 96>> number of words got assigned = 25
+Topic# 97>> number of words got assigned = 1
+Topic# 98>> ###################################### No words assigned!!!
+Topic# 99>> number of words got assigned = 25
+Topic# 100>> number of words got assigned = 25
+Topic# 101>> number of words got assigned = 25
+Topic# 102>> number of words got assigned = 25
+Topic# 103>> number of words got assigned = 4
+Topic# 104>> number of words got assigned = 25
+Topic# 105>> number of words got assigned = 25
+Topic# 106>> number of words got assigned = 4
+Topic# 107>> number of words got assigned = 25
+Topic# 108>> number of words got assigned = 25
+Topic# 109>> number of words got assigned = 25
+Topic# 110>> number of words got assigned = 25
+Topic# 111>> number of words got assigned = 12
+Topic# 112>> number of words got assigned = 25
+Topic# 113>> number of words got assigned = 2
+Topic# 114>> number of words got assigned = 25
+Topic# 115>> ###################################### No words assigned!!!
+Topic# 116>> number of words got assigned = 25
+Topic# 117>> number of words got assigned = 25
+Topic# 118>> number of words got assigned = 25
+Topic# 119>> number of words got assigned = 25
+Topic# 120>> number of words got assigned = 25
+Topic# 121>> number of words got assigned = 1
+Topic# 122>> number of words got assigned = 25
+Topic# 123>> ###################################### No words assigned!!!
+Topic# 124>> number of words got assigned = 25
+Topic# 125>> number of words got assigned = 25
+Topic# 126>> number of words got assigned = 25
+Topic# 127>> number of words got assigned = 25
+Topic# 128>> number of words got assigned = 8
+Topic# 129>> number of words got assigned = 25
+Topic# 130>> number of words got assigned = 25
+Topic# 131>> number of words got assigned = 1
+Topic# 132>> number of words got assigned = 2
+Topic# 133>> number of words got assigned = 25
+Topic# 134>> number of words got assigned = 25
+Topic# 135>> number of words got assigned = 25
+Topic# 136>> number of words got assigned = 25
+Topic# 137>> number of words got assigned = 25
+Topic# 138>> number of words got assigned = 25
+Topic# 139>> number of words got assigned = 25
+Topic# 140>> ###################################### No words assigned!!!
+Topic# 141>> number of words got assigned = 25
+Topic# 142>> number of words got assigned = 25
+Topic# 143>> number of words got assigned = 25
+Topic# 144>> number of words got assigned = 1
+Topic# 145>> number of words got assigned = 25
+Topic# 146>> number of words got assigned = 25
+Topic# 147>> number of words got assigned = 25
+Topic# 148>> ###################################### No words assigned!!!
+Topic# 149>> number of words got assigned = 25
+Topic# 150>> number of words got assigned = 25
+Topic# 151>> number of words got assigned = 25
+Topic# 152>> number of words got assigned = 25
+Topic# 153>> number of words got assigned = 3
+Topic# 154>> ###################################### No words assigned!!!
+Topic# 155>> number of words got assigned = 25
+Topic# 156>> number of words got assigned = 25
+Topic# 157>> number of words got assigned = 25
+Topic# 158>> number of words got assigned = 15
+Topic# 159>> ###################################### No words assigned!!!
+Topic# 160>> number of words got assigned = 25
+Topic# 161>> number of words got assigned = 25
+Topic# 162>> number of words got assigned = 5
+Topic# 163>> number of words got assigned = 7
+Topic# 164>> number of words got assigned = 25
+Topic# 165>> number of words got assigned = 25
+Topic# 166>> number of words got assigned = 25
+Topic# 167>> number of words got assigned = 25
+Topic# 168>> number of words got assigned = 4
+Topic# 169>> number of words got assigned = 25
+Topic# 170>> ###################################### No words assigned!!!
+Topic# 171>> number of words got assigned = 25
+Topic# 172>> number of words got assigned = 25
+Topic# 173>> number of words got assigned = 20
+Topic# 174>> number of words got assigned = 25
+Topic# 175>> number of words got assigned = 25
+Topic# 176>> number of words got assigned = 25
+Topic# 177>> number of words got assigned = 25
+Topic# 178>> ###################################### No words assigned!!!
+Topic# 179>> number of words got assigned = 25
+Topic# 180>> number of words got assigned = 25
+Topic# 181>> number of words got assigned = 25
+Topic# 182>> number of words got assigned = 4
+Topic# 183>> number of words got assigned = 25
+Topic# 184>> number of words got assigned = 25
+Topic# 185>> number of words got assigned = 25
+Topic# 186>> number of words got assigned = 21
+Topic# 187>> number of words got assigned = 5
+Topic# 188>> number of words got assigned = 25
+Topic# 189>> number of words got assigned = 13
+Topic# 190>> number of words got assigned = 3
+Topic# 191>> ###################################### No words assigned!!!
+Topic# 192>> number of words got assigned = 25
+Topic# 193>> number of words got assigned = 25
+Topic# 194>> number of words got assigned = 10
+Topic# 195>> number of words got assigned = 25
+Topic# 196>> number of words got assigned = 25
+Topic# 197>> number of words got assigned = 25
+Topic# 198>> number of words got assigned = 9
+Topic# 199>> number of words got assigned = 25
+Topic# 200>> number of words got assigned = 25
+Topic# 201>> number of words got assigned = 25
+Topic# 202>> number of words got assigned = 25
+Topic# 203>> ###################################### No words assigned!!!
+Topic# 204>> number of words got assigned = 25
+Topic# 205>> number of words got assigned = 25
+Topic# 206>> number of words got assigned = 25
+Topic# 207>> number of words got assigned = 5
+Topic# 208>> ###################################### No words assigned!!!
+Topic# 209>> number of words got assigned = 25
+Topic# 210>> number of words got assigned = 25
+Topic# 211>> number of words got assigned = 25
+Topic# 212>> number of words got assigned = 25
+Topic# 213>> number of words got assigned = 25
+Topic# 214>> number of words got assigned = 5
+Topic# 215>> number of words got assigned = 16
+Topic# 216>> number of words got assigned = 1
+Topic# 217>> number of words got assigned = 25
+Topic# 218>> number of words got assigned = 3
+Topic# 219>> number of words got assigned = 18
+Topic# 220>> number of words got assigned = 17
+Topic# 221>> number of words got assigned = 17
+Topic# 222>> number of words got assigned = 2
+Topic# 223>> number of words got assigned = 1
+Topic# 224>> number of words got assigned = 19
+Topic# 225>> number of words got assigned = 25
+Topic# 226>> ###################################### No words assigned!!!
+Topic# 227>> number of words got assigned = 25
+Topic# 228>> number of words got assigned = 7
+Topic# 229>> ###################################### No words assigned!!!
+Topic# 230>> number of words got assigned = 25
+Topic# 231>> number of words got assigned = 25
+Topic# 232>> number of words got assigned = 25
+Topic# 233>> number of words got assigned = 25
+Topic# 234>> number of words got assigned = 25
+Topic# 235>> number of words got assigned = 9
+Topic# 236>> ###################################### No words assigned!!!
+Topic# 237>> number of words got assigned = 25
+Topic# 238>> number of words got assigned = 25
+Topic# 239>> number of words got assigned = 25
+Topic# 240>> number of words got assigned = 25
+Topic# 241>> number of words got assigned = 2
+Topic# 242>> number of words got assigned = 25
+Topic# 243>> number of words got assigned = 12
+Topic# 244>> number of words got assigned = 1
+Topic# 245>> number of words got assigned = 1
+Topic# 246>> number of words got assigned = 25
+Topic# 247>> ###################################### No words assigned!!!
+Topic# 248>> ###################################### No words assigned!!!
+Topic# 249>> number of words got assigned = 25
+Topic# 250>> number of words got assigned = 25
+Topic# 251>> number of words got assigned = 3
+Topic# 252>> number of words got assigned = 25
+Topic# 253>> number of words got assigned = 25
+Topic# 254>> number of words got assigned = 25
+Topic# 255>> number of words got assigned = 25
+Topic# 256>> number of words got assigned = 25
+Topic# 257>> number of words got assigned = 25
+Topic# 258>> number of words got assigned = 25
+Topic# 259>> number of words got assigned = 5
+Topic# 260>> number of words got assigned = 25
+Topic# 261>> ###################################### No words assigned!!!
+Topic# 262>> number of words got assigned = 25
+Topic# 263>> number of words got assigned = 25
+Topic# 264>> number of words got assigned = 6
+Topic# 265>> number of words got assigned = 25
+Topic# 266>> number of words got assigned = 25
+Topic# 267>> ###################################### No words assigned!!!
+Topic# 268>> number of words got assigned = 18
+Topic# 269>> number of words got assigned = 1
+Topic# 270>> number of words got assigned = 25
+Topic# 271>> number of words got assigned = 25
+Topic# 272>> number of words got assigned = 25
+Topic# 273>> number of words got assigned = 25
+Topic# 274>> number of words got assigned = 25
+Topic# 275>> number of words got assigned = 25
+Topic# 276>> number of words got assigned = 19
+Topic# 277>> number of words got assigned = 25
+Topic# 278>> number of words got assigned = 25
+Topic# 279>> number of words got assigned = 25
+Topic# 280>> number of words got assigned = 25
+Topic# 281>> number of words got assigned = 25
+Topic# 282>> number of words got assigned = 25
+Topic# 283>> number of words got assigned = 25
+Topic# 284>> number of words got assigned = 25
+Topic# 285>> number of words got assigned = 25
+Topic# 286>> number of words got assigned = 25
+Topic# 287>> number of words got assigned = 25
+Topic# 288>> number of words got assigned = 25
+Topic# 289>> number of words got assigned = 25
+Topic# 290>> number of words got assigned = 25
+Topic# 291>> number of words got assigned = 25
+Topic# 292>> number of words got assigned = 25
+Topic# 293>> number of words got assigned = 1
+Topic# 294>> number of words got assigned = 25
+Topic# 295>> number of words got assigned = 25
+Topic# 296>> number of words got assigned = 25
+Topic# 297>> number of words got assigned = 5
+Topic# 298>> number of words got assigned = 8
+Topic# 299>> number of words got assigned = 25
+Topic# 300>> number of words got assigned = 25
+Topic# 301>> number of words got assigned = 25
+Topic# 302>> number of words got assigned = 25
+Topic# 303>> number of words got assigned = 9
+Topic# 304>> number of words got assigned = 14
+Topic# 305>> number of words got assigned = 4
+Topic# 306>> number of words got assigned = 20
+Topic# 307>> number of words got assigned = 25
+Topic# 308>> number of words got assigned = 25
+Topic# 309>> number of words got assigned = 12
+Topic# 310>> number of words got assigned = 25
+Topic# 311>> number of words got assigned = 25
+Topic# 312>> number of words got assigned = 1
+Topic# 313>> number of words got assigned = 25
+Topic# 314>> number of words got assigned = 10
+Topic# 315>> number of words got assigned = 25
+Topic# 316>> number of words got assigned = 14
+Topic# 317>> number of words got assigned = 25
+Topic# 318>> number of words got assigned = 25
+Topic# 319>> number of words got assigned = 25
+Topic# 320>> number of words got assigned = 25
+Topic# 321>> number of words got assigned = 25
+Topic# 322>> number of words got assigned = 25
+Topic# 323>> number of words got assigned = 25
+Topic# 324>> number of words got assigned = 25
+Topic# 325>> number of words got assigned = 25
+Topic# 326>> number of words got assigned = 25
+Topic# 327>> number of words got assigned = 19
+Topic# 328>> number of words got assigned = 25
+Topic# 329>> ###################################### No words assigned!!!
+Topic# 330>> number of words got assigned = 25
+Topic# 331>> number of words got assigned = 25
+Topic# 332>> ###################################### No words assigned!!!
+Topic# 333>> ###################################### No words assigned!!!
+Topic# 334>> number of words got assigned = 7
+Topic# 335>> number of words got assigned = 25
+Topic# 336>> number of words got assigned = 25
+Topic# 337>> number of words got assigned = 19
+Topic# 338>> number of words got assigned = 25
+Topic# 339>> number of words got assigned = 25
+Topic# 340>> number of words got assigned = 25
+Topic# 341>> number of words got assigned = 25
+Topic# 342>> number of words got assigned = 1
+Topic# 343>> number of words got assigned = 2
+Topic# 344>> ###################################### No words assigned!!!
+Topic# 345>> number of words got assigned = 25
+Topic# 346>> number of words got assigned = 12
+Topic# 347>> number of words got assigned = 20
+Topic# 348>> number of words got assigned = 25
+Topic# 349>> number of words got assigned = 25
+Topic# 350>> number of words got assigned = 2
+Topic# 351>> number of words got assigned = 25
+Topic# 352>> ###################################### No words assigned!!!
+Topic# 353>> number of words got assigned = 19
+Topic# 354>> number of words got assigned = 25
+Topic# 355>> number of words got assigned = 25
+Topic# 356>> ###################################### No words assigned!!!
+Topic# 357>> ###################################### No words assigned!!!
+Topic# 358>> number of words got assigned = 19
+Topic# 359>> number of words got assigned = 25
+Topic# 360>> number of words got assigned = 2
+Topic# 361>> number of words got assigned = 12
+Topic# 362>> number of words got assigned = 25
+Topic# 363>> number of words got assigned = 25
+Topic# 364>> number of words got assigned = 4
+Topic# 365>> number of words got assigned = 25
+Topic# 366>> number of words got assigned = 25
+Topic# 367>> number of words got assigned = 25
+Topic# 368>> number of words got assigned = 3
+Topic# 369>> number of words got assigned = 25
+Topic# 370>> number of words got assigned = 25
+Topic# 371>> number of words got assigned = 1
+Topic# 372>> ###################################### No words assigned!!!
+Topic# 373>> number of words got assigned = 4
+Topic# 374>> number of words got assigned = 7
+Topic# 375>> number of words got assigned = 25
+Topic# 376>> number of words got assigned = 25
+Topic# 377>> number of words got assigned = 25
+Topic# 378>> number of words got assigned = 18
+Topic# 379>> number of words got assigned = 19
+Topic# 380>> number of words got assigned = 25
+Topic# 381>> number of words got assigned = 25
+Topic# 382>> number of words got assigned = 25
+Topic# 383>> number of words got assigned = 25
+Topic# 384>> number of words got assigned = 25
+Topic# 385>> number of words got assigned = 25
+Topic# 386>> number of words got assigned = 25
+Topic# 387>> number of words got assigned = 25
+Topic# 388>> number of words got assigned = 25
+Topic# 389>> ###################################### No words assigned!!!
+Topic# 390>> number of words got assigned = 7
+Topic# 391>> number of words got assigned = 1
+Topic# 392>> number of words got assigned = 25
+Topic# 393>> number of words got assigned = 17
+Topic# 394>> number of words got assigned = 7
+Topic# 395>> number of words got assigned = 25
+Topic# 396>> number of words got assigned = 25
+Topic# 397>> number of words got assigned = 25
+Topic# 398>> number of words got assigned = 24
+Topic# 399>> number of words got assigned = 25
+Topic# 400>> number of words got assigned = 25
+Topic# 401>> number of words got assigned = 25
+Topic# 402>> number of words got assigned = 25
+Topic# 403>> number of words got assigned = 5
+Topic# 404>> ###################################### No words assigned!!!
+Topic# 405>> number of words got assigned = 9
+Topic# 406>> number of words got assigned = 25
+Topic# 407>> number of words got assigned = 25
+Topic# 408>> number of words got assigned = 2
+Topic# 409>> ###################################### No words assigned!!!
+Topic# 410>> number of words got assigned = 25
+Topic# 411>> number of words got assigned = 25
+Topic# 412>> number of words got assigned = 10
+Topic# 413>> number of words got assigned = 25
+Topic# 414>> number of words got assigned = 25
+Topic# 415>> number of words got assigned = 1
+Topic# 416>> number of words got assigned = 25
+Topic# 417>> ###################################### No words assigned!!!
+Topic# 418>> number of words got assigned = 5
+Topic# 419>> number of words got assigned = 17
+Topic# 420>> number of words got assigned = 25
+Topic# 421>> number of words got assigned = 25
+Topic# 422>> number of words got assigned = 6
+Topic# 423>> ###################################### No words assigned!!!
+Topic# 424>> number of words got assigned = 25
+Topic# 425>> number of words got assigned = 25
+Topic# 426>> number of words got assigned = 25
+Topic# 427>> number of words got assigned = 25
+Topic# 428>> number of words got assigned = 25
+Topic# 429>> number of words got assigned = 25
+Topic# 430>> number of words got assigned = 25
+Topic# 431>> number of words got assigned = 25
+Topic# 432>> number of words got assigned = 25
+Topic# 433>> number of words got assigned = 10
+Topic# 434>> number of words got assigned = 25
+Topic# 435>> ###################################### No words assigned!!!
+Topic# 436>> number of words got assigned = 25
+Topic# 437>> number of words got assigned = 3
+Topic# 438>> number of words got assigned = 25
+Topic# 439>> number of words got assigned = 25
+Topic# 440>> number of words got assigned = 25
+Topic# 441>> number of words got assigned = 25
+Topic# 442>> number of words got assigned = 25
+Topic# 443>> number of words got assigned = 25
+Topic# 444>> number of words got assigned = 25
+Topic# 445>> number of words got assigned = 1
+Topic# 446>> number of words got assigned = 3
+Topic# 447>> number of words got assigned = 25
+Topic# 448>> number of words got assigned = 25
+Topic# 449>> number of words got assigned = 25
+Topic# 450>> number of words got assigned = 25
+Topic# 451>> number of words got assigned = 25
+Topic# 452>> number of words got assigned = 25
+Topic# 453>> number of words got assigned = 25
+Topic# 454>> number of words got assigned = 25
+Topic# 455>> number of words got assigned = 25
+Topic# 456>> ###################################### No words assigned!!!
+Topic# 457>> number of words got assigned = 25
+Topic# 458>> number of words got assigned = 25
+Topic# 459>> number of words got assigned = 16
+Topic# 460>> number of words got assigned = 25
+Topic# 461>> number of words got assigned = 25
+Topic# 462>> number of words got assigned = 3
+Topic# 463>> number of words got assigned = 3
+Topic# 464>> number of words got assigned = 17
+Topic# 465>> ###################################### No words assigned!!!
+Topic# 466>> number of words got assigned = 25
+Topic# 467>> number of words got assigned = 25
+Topic# 468>> number of words got assigned = 20
+Topic# 469>> number of words got assigned = 25
+Topic# 470>> number of words got assigned = 25
+Topic# 471>> number of words got assigned = 1
+Topic# 472>> number of words got assigned = 1
+Topic# 473>> number of words got assigned = 25
+Topic# 474>> number of words got assigned = 4
+Topic# 475>> number of words got assigned = 25
+Topic# 476>> number of words got assigned = 25
+Topic# 477>> number of words got assigned = 25
+Topic# 478>> number of words got assigned = 25
+Topic# 479>> number of words got assigned = 25
+Topic# 480>> number of words got assigned = 25
+Topic# 481>> number of words got assigned = 5
+Topic# 482>> number of words got assigned = 25
+Topic# 483>> number of words got assigned = 25
+Topic# 484>> number of words got assigned = 2
+Topic# 485>> number of words got assigned = 25
+Topic# 486>> number of words got assigned = 8
+Topic# 487>> number of words got assigned = 25
+Topic# 488>> number of words got assigned = 16
+Topic# 489>> number of words got assigned = 25
+Topic# 490>> number of words got assigned = 25
+Topic# 491>> number of words got assigned = 1
+Topic# 492>> number of words got assigned = 25
+Topic# 493>> number of words got assigned = 25
+Topic# 494>> number of words got assigned = 25
+Topic# 495>> number of words got assigned = 25
+Topic# 496>> ###################################### No words assigned!!!
+Topic# 497>> number of words got assigned = 25
+Topic# 498>> number of words got assigned = 25
+Topic# 499>> number of words got assigned = 25
+Topic# 500>> ###################################### No words assigned!!!
+Topic# 501>> number of words got assigned = 10
+Topic# 502>> number of words got assigned = 25
+Topic# 503>> number of words got assigned = 1
+Topic# 504>> number of words got assigned = 25
+Topic# 505>> number of words got assigned = 25
+Topic# 506>> number of words got assigned = 8
+Topic# 507>> number of words got assigned = 25
+Topic# 508>> number of words got assigned = 25
+Topic# 509>> number of words got assigned = 25
+Topic# 510>> number of words got assigned = 25
+Topic# 511>> number of words got assigned = 4
+Topic# 512>> ###################################### No words assigned!!!
+Topic# 513>> ###################################### No words assigned!!!
+Topic# 514>> number of words got assigned = 25
+Topic# 515>> number of words got assigned = 25
+Topic# 516>> number of words got assigned = 14
+Topic# 517>> number of words got assigned = 1
+Topic# 518>> number of words got assigned = 25
+Topic# 519>> number of words got assigned = 25
+Topic# 520>> number of words got assigned = 25
+Topic# 521>> number of words got assigned = 25
+Topic# 522>> number of words got assigned = 25
+Topic# 523>> number of words got assigned = 25
+Topic# 524>> number of words got assigned = 25
+Topic# 525>> number of words got assigned = 9
+Topic# 526>> number of words got assigned = 25
+Topic# 527>> number of words got assigned = 1
+Topic# 528>> number of words got assigned = 25
+Topic# 529>> number of words got assigned = 25
+Topic# 530>> number of words got assigned = 25
+Topic# 531>> number of words got assigned = 25
+Topic# 532>> number of words got assigned = 25
+Topic# 533>> number of words got assigned = 25
+Topic# 534>> number of words got assigned = 7
+Topic# 535>> number of words got assigned = 2
+Topic# 536>> number of words got assigned = 1
+Topic# 537>> ###################################### No words assigned!!!
+Topic# 538>> number of words got assigned = 25
+Topic# 539>> number of words got assigned = 25
+Topic# 540>> number of words got assigned = 13
+Topic# 541>> number of words got assigned = 25
+Topic# 542>> number of words got assigned = 4
+Topic# 543>> number of words got assigned = 9
+Topic# 544>> ###################################### No words assigned!!!
+Topic# 545>> ###################################### No words assigned!!!
+Topic# 546>> number of words got assigned = 25
+Topic# 547>> number of words got assigned = 21
+Topic# 548>> number of words got assigned = 25
+Topic# 549>> number of words got assigned = 14
+Topic# 550>> number of words got assigned = 25
+Topic# 551>> number of words got assigned = 25
+Topic# 552>> number of words got assigned = 25
+Topic# 553>> number of words got assigned = 25
+Topic# 554>> number of words got assigned = 25
+Topic# 555>> ###################################### No words assigned!!!
+Topic# 556>> number of words got assigned = 1
+Topic# 557>> number of words got assigned = 25
+Topic# 558>> number of words got assigned = 22
+Topic# 559>> number of words got assigned = 1
+Topic# 560>> number of words got assigned = 25
+Topic# 561>> number of words got assigned = 25
+Topic# 562>> ###################################### No words assigned!!!
+Topic# 563>> number of words got assigned = 25
+Topic# 564>> number of words got assigned = 25
+Topic# 565>> number of words got assigned = 25
+Topic# 566>> number of words got assigned = 25
+Topic# 567>> number of words got assigned = 25
+Topic# 568>> number of words got assigned = 18
+Topic# 569>> ###################################### No words assigned!!!
+Topic# 570>> number of words got assigned = 25
+Topic# 571>> number of words got assigned = 25
+Topic# 572>> number of words got assigned = 25
+Topic# 573>> number of words got assigned = 25
+Topic# 574>> number of words got assigned = 3
+Topic# 575>> number of words got assigned = 25
+Topic# 576>> number of words got assigned = 18
+Topic# 577>> number of words got assigned = 25
+Topic# 578>> number of words got assigned = 25
+Topic# 579>> number of words got assigned = 25
+Topic# 580>> number of words got assigned = 25
+Topic# 581>> number of words got assigned = 25
+Topic# 582>> number of words got assigned = 25
+Topic# 583>> ###################################### No words assigned!!!
+Topic# 584>> number of words got assigned = 25
+Topic# 585>> number of words got assigned = 25
+Topic# 586>> number of words got assigned = 4
+Topic# 587>> number of words got assigned = 17
+Topic# 588>> number of words got assigned = 9
+Topic# 589>> number of words got assigned = 8
+Topic# 590>> number of words got assigned = 25
+Topic# 591>> number of words got assigned = 25
+Topic# 592>> number of words got assigned = 9
+Topic# 593>> number of words got assigned = 6
+Topic# 594>> number of words got assigned = 8
+Topic# 595>> number of words got assigned = 25
+Topic# 596>> number of words got assigned = 25
+Topic# 597>> ###################################### No words assigned!!!
+Topic# 598>> number of words got assigned = 25
+Topic# 599>> number of words got assigned = 4
+Topic# 600>> number of words got assigned = 1
+Topic# 601>> number of words got assigned = 25
+Topic# 602>> number of words got assigned = 25
+Topic# 603>> number of words got assigned = 25
+Topic# 604>> number of words got assigned = 3
+Topic# 605>> number of words got assigned = 25
+Topic# 606>> number of words got assigned = 25
+Topic# 607>> number of words got assigned = 25
+Topic# 608>> number of words got assigned = 25
+Topic# 609>> number of words got assigned = 1
+Topic# 610>> number of words got assigned = 25
+Topic# 611>> number of words got assigned = 25
+Topic# 612>> number of words got assigned = 25
+Topic# 613>> number of words got assigned = 6
+Topic# 614>> number of words got assigned = 25
+Topic# 615>> number of words got assigned = 25
+Topic# 616>> number of words got assigned = 25
+Topic# 617>> number of words got assigned = 2
+Topic# 618>> number of words got assigned = 25
+Topic# 619>> number of words got assigned = 25
+Topic# 620>> number of words got assigned = 1
+Topic# 621>> number of words got assigned = 3
+Topic# 622>> number of words got assigned = 25
+Topic# 623>> ###################################### No words assigned!!!
+Topic# 624>> ###################################### No words assigned!!!
+Topic# 625>> number of words got assigned = 25
+Topic# 626>> number of words got assigned = 20
+Topic# 627>> number of words got assigned = 9
+Topic# 628>> number of words got assigned = 25
+Topic# 629>> number of words got assigned = 25
+Topic# 630>> number of words got assigned = 25
+Topic# 631>> number of words got assigned = 8
+Topic# 632>> number of words got assigned = 3
+Topic# 633>> number of words got assigned = 25
+Topic# 634>> ###################################### No words assigned!!!
+Topic# 635>> ###################################### No words assigned!!!
+Topic# 636>> ###################################### No words assigned!!!
+Topic# 637>> number of words got assigned = 1
+Topic# 638>> number of words got assigned = 25
+Topic# 639>> number of words got assigned = 25
+Topic# 640>> number of words got assigned = 25
+Topic# 641>> number of words got assigned = 25
+Topic# 642>> number of words got assigned = 25
+Topic# 643>> number of words got assigned = 20
+Topic# 644>> number of words got assigned = 23
+Topic# 645>> number of words got assigned = 25
+Topic# 646>> number of words got assigned = 25
+Topic# 647>> number of words got assigned = 25
+Topic# 648>> ###################################### No words assigned!!!
+Topic# 649>> number of words got assigned = 25
+Topic# 650>> ###################################### No words assigned!!!
+Topic# 651>> number of words got assigned = 25
+Topic# 652>> number of words got assigned = 25
+Topic# 653>> number of words got assigned = 25
+Topic# 654>> number of words got assigned = 25
+Topic# 655>> number of words got assigned = 25
+Topic# 656>> number of words got assigned = 25
+Topic# 657>> number of words got assigned = 21
+Topic# 658>> number of words got assigned = 25
+Topic# 659>> number of words got assigned = 25
+Topic# 660>> number of words got assigned = 25
+Topic# 661>> number of words got assigned = 25
+Topic# 662>> number of words got assigned = 25
+Topic# 663>> number of words got assigned = 25
+Topic# 664>> number of words got assigned = 25
+Topic# 665>> number of words got assigned = 25
+Topic# 666>> number of words got assigned = 25
+Topic# 667>> number of words got assigned = 25
+Topic# 668>> number of words got assigned = 25
+Topic# 669>> number of words got assigned = 25
+Topic# 670>> number of words got assigned = 25
+Topic# 671>> number of words got assigned = 25
+Topic# 672>> number of words got assigned = 12
+Topic# 673>> number of words got assigned = 25
+Topic# 674>> number of words got assigned = 25
+Topic# 675>> number of words got assigned = 25
+Topic# 676>> number of words got assigned = 25
+Topic# 677>> number of words got assigned = 19
+Topic# 678>> number of words got assigned = 25
+Topic# 679>> number of words got assigned = 25
+Topic# 680>> number of words got assigned = 25
+Topic# 681>> ###################################### No words assigned!!!
+Topic# 682>> number of words got assigned = 25
+Topic# 683>> number of words got assigned = 2
+Topic# 684>> number of words got assigned = 13
+Topic# 685>> number of words got assigned = 25
+Topic# 686>> number of words got assigned = 25
+Topic# 687>> number of words got assigned = 25
+Topic# 688>> number of words got assigned = 2
+Topic# 689>> number of words got assigned = 25
+Topic# 690>> number of words got assigned = 25
+Topic# 691>> number of words got assigned = 25
+Topic# 692>> number of words got assigned = 25
+Topic# 693>> number of words got assigned = 25
+Topic# 694>> number of words got assigned = 25
+Topic# 695>> number of words got assigned = 25
+Topic# 696>> number of words got assigned = 25
+Topic# 697>> number of words got assigned = 25
+Topic# 698>> ###################################### No words assigned!!!
+Topic# 699>> ###################################### No words assigned!!!
+Topic# 700>> number of words got assigned = 5
+Topic# 701>> number of words got assigned = 7
+Topic# 702>> ###################################### No words assigned!!!
+Topic# 703>> number of words got assigned = 25
+Topic# 704>> number of words got assigned = 6
+Topic# 705>> number of words got assigned = 25
+Topic# 706>> number of words got assigned = 21
+Topic# 707>> number of words got assigned = 6
+Topic# 708>> number of words got assigned = 25
+Topic# 709>> number of words got assigned = 25
+Topic# 710>> number of words got assigned = 25
+Topic# 711>> number of words got assigned = 25
+Topic# 712>> number of words got assigned = 25
+Topic# 713>> number of words got assigned = 6
+Topic# 714>> number of words got assigned = 25
+Topic# 715>> number of words got assigned = 25
+Topic# 716>> number of words got assigned = 2
+Topic# 717>> number of words got assigned = 25
+Topic# 718>> number of words got assigned = 25
+Topic# 719>> number of words got assigned = 5
+Topic# 720>> number of words got assigned = 25
+Topic# 721>> number of words got assigned = 8
+Topic# 722>> number of words got assigned = 25
+Topic# 723>> number of words got assigned = 2
+Topic# 724>> number of words got assigned = 5
+Topic# 725>> number of words got assigned = 22
+Topic# 726>> number of words got assigned = 17
+Topic# 727>> ###################################### No words assigned!!!
+Topic# 728>> number of words got assigned = 25
+Topic# 729>> ###################################### No words assigned!!!
+Topic# 730>> ###################################### No words assigned!!!
+Topic# 731>> number of words got assigned = 2
+Topic# 732>> number of words got assigned = 7
+Topic# 733>> number of words got assigned = 2
+Topic# 734>> number of words got assigned = 1
+Topic# 735>> number of words got assigned = 2
+Topic# 736>> number of words got assigned = 25
+Topic# 737>> number of words got assigned = 25
+Topic# 738>> ###################################### No words assigned!!!
+Topic# 739>> number of words got assigned = 2
+Topic# 740>> number of words got assigned = 25
+Topic# 741>> number of words got assigned = 25
+Topic# 742>> ###################################### No words assigned!!!
+Topic# 743>> number of words got assigned = 1
+Topic# 744>> number of words got assigned = 25
+Topic# 745>> number of words got assigned = 25
+Topic# 746>> number of words got assigned = 25
+Topic# 747>> number of words got assigned = 25
+Topic# 748>> number of words got assigned = 4
+Topic# 749>> number of words got assigned = 25
+Topic# 750>> number of words got assigned = 25
+Topic# 751>> number of words got assigned = 25
+Topic# 752>> number of words got assigned = 25
+Topic# 753>> number of words got assigned = 25
+Topic# 754>> ###################################### No words assigned!!!
+Topic# 755>> number of words got assigned = 25
+Topic# 756>> number of words got assigned = 25
+Topic# 757>> number of words got assigned = 25
+Topic# 758>> number of words got assigned = 4
+Topic# 759>> number of words got assigned = 25
+Topic# 760>> ###################################### No words assigned!!!
+Topic# 761>> number of words got assigned = 25
+Topic# 762>> number of words got assigned = 25
+Topic# 763>> number of words got assigned = 25
+Topic# 764>> number of words got assigned = 18
+Topic# 765>> number of words got assigned = 25
+Topic# 766>> number of words got assigned = 25
+Topic# 767>> number of words got assigned = 25
+Topic# 768>> number of words got assigned = 1
+Topic# 769>> number of words got assigned = 14
+Topic# 770>> number of words got assigned = 4
+Topic# 771>> number of words got assigned = 25
+Topic# 772>> number of words got assigned = 25
+Topic# 773>> number of words got assigned = 25
+Topic# 774>> ###################################### No words assigned!!!
+Topic# 775>> number of words got assigned = 4
+Topic# 776>> ###################################### No words assigned!!!
+Topic# 777>> number of words got assigned = 25
+Topic# 778>> number of words got assigned = 6
+Topic# 779>> number of words got assigned = 25
+Topic# 780>> number of words got assigned = 20
+Topic# 781>> number of words got assigned = 25
+Topic# 782>> number of words got assigned = 25
+Topic# 783>> number of words got assigned = 12
+Topic# 784>> number of words got assigned = 25
+Topic# 785>> number of words got assigned = 25
+Topic# 786>> number of words got assigned = 25
+Topic# 787>> number of words got assigned = 13
+Topic# 788>> number of words got assigned = 25
+Topic# 789>> number of words got assigned = 25
+Topic# 790>> number of words got assigned = 7
+Topic# 791>> number of words got assigned = 25
+Topic# 792>> number of words got assigned = 13
+Topic# 793>> number of words got assigned = 24
+Topic# 794>> ###################################### No words assigned!!!
+Topic# 795>> number of words got assigned = 25
+Topic# 796>> number of words got assigned = 25
+Topic# 797>> number of words got assigned = 25
+Topic# 798>> number of words got assigned = 2
+Topic# 799>> number of words got assigned = 6
+Topic# 800>> ###################################### No words assigned!!!
+Topic# 801>> ###################################### No words assigned!!!
+Topic# 802>> number of words got assigned = 25
+Topic# 803>> number of words got assigned = 24
+Topic# 804>> number of words got assigned = 22
+Topic# 805>> number of words got assigned = 25
+Topic# 806>> number of words got assigned = 25
+Topic# 807>> number of words got assigned = 25
+Topic# 808>> number of words got assigned = 12
+Topic# 809>> ###################################### No words assigned!!!
+Topic# 810>> number of words got assigned = 25
+Topic# 811>> number of words got assigned = 16
+Topic# 812>> number of words got assigned = 25
+Topic# 813>> number of words got assigned = 1
+Topic# 814>> number of words got assigned = 2
+Topic# 815>> number of words got assigned = 3
+Topic# 816>> ###################################### No words assigned!!!
+Topic# 817>> number of words got assigned = 1
+Topic# 818>> number of words got assigned = 3
+Topic# 819>> number of words got assigned = 1
+Topic# 820>> number of words got assigned = 25
+Topic# 821>> number of words got assigned = 1
+Topic# 822>> number of words got assigned = 2
+Topic# 823>> number of words got assigned = 25
+Topic# 824>> ###################################### No words assigned!!!
+Topic# 825>> number of words got assigned = 1
+Topic# 826>> number of words got assigned = 25
+Topic# 827>> ###################################### No words assigned!!!
+Topic# 828>> number of words got assigned = 18
+Topic# 829>> number of words got assigned = 25
+Topic# 830>> number of words got assigned = 25
+Topic# 831>> number of words got assigned = 25
+Topic# 832>> number of words got assigned = 25
+Topic# 833>> number of words got assigned = 5
+Topic# 834>> number of words got assigned = 25
+Topic# 835>> ###################################### No words assigned!!!
+Topic# 836>> number of words got assigned = 25
+Topic# 837>> number of words got assigned = 25
+Topic# 838>> number of words got assigned = 25
+Topic# 839>> number of words got assigned = 2
+Topic# 840>> number of words got assigned = 25
+Topic# 841>> number of words got assigned = 13
+Topic# 842>> number of words got assigned = 25
+Topic# 843>> number of words got assigned = 2
+Topic# 844>> number of words got assigned = 1
+Topic# 845>> number of words got assigned = 25
+Topic# 846>> number of words got assigned = 25
+Topic# 847>> number of words got assigned = 25
+Topic# 848>> number of words got assigned = 25
+Topic# 849>> number of words got assigned = 4
+Topic# 850>> number of words got assigned = 25
+Topic# 851>> number of words got assigned = 1
+Topic# 852>> number of words got assigned = 25
+Topic# 853>> number of words got assigned = 25
+Topic# 854>> number of words got assigned = 8
+Topic# 855>> number of words got assigned = 25
+Topic# 856>> ###################################### No words assigned!!!
+Topic# 857>> number of words got assigned = 20
+Topic# 858>> number of words got assigned = 25
+Topic# 859>> number of words got assigned = 25
+Topic# 860>> number of words got assigned = 2
+Topic# 861>> number of words got assigned = 17
+Topic# 862>> number of words got assigned = 25
+Topic# 863>> number of words got assigned = 25
+Topic# 864>> number of words got assigned = 25
+Topic# 865>> number of words got assigned = 25
+Topic# 866>> number of words got assigned = 1
+Topic# 867>> number of words got assigned = 25
+Topic# 868>> number of words got assigned = 21
+Topic# 869>> number of words got assigned = 1
+Topic# 870>> number of words got assigned = 5
+Topic# 871>> number of words got assigned = 4
+Topic# 872>> number of words got assigned = 12
+Topic# 873>> number of words got assigned = 25
+Topic# 874>> ###################################### No words assigned!!!
+Topic# 875>> number of words got assigned = 25
+Topic# 876>> number of words got assigned = 25
+Topic# 877>> number of words got assigned = 25
+Topic# 878>> number of words got assigned = 25
+Topic# 879>> number of words got assigned = 25
+Topic# 880>> number of words got assigned = 25
+Topic# 881>> number of words got assigned = 25
+Topic# 882>> number of words got assigned = 8
+Topic# 883>> number of words got assigned = 25
+Topic# 884>> number of words got assigned = 25
+Topic# 885>> number of words got assigned = 25
+Topic# 886>> number of words got assigned = 1
+Topic# 887>> number of words got assigned = 25
+Topic# 888>> number of words got assigned = 10
+Topic# 889>> number of words got assigned = 25
+Topic# 890>> number of words got assigned = 25
+Topic# 891>> number of words got assigned = 25
+Topic# 892>> number of words got assigned = 25
+Topic# 893>> number of words got assigned = 17
+Topic# 894>> number of words got assigned = 2
+Topic# 895>> number of words got assigned = 3
+Topic# 896>> number of words got assigned = 1
+Topic# 897>> number of words got assigned = 25
+Topic# 898>> ###################################### No words assigned!!!
+Topic# 899>> number of words got assigned = 25
+Topic# 900>> number of words got assigned = 1
+Topic# 901>> number of words got assigned = 25
+Topic# 902>> number of words got assigned = 25
+Topic# 903>> number of words got assigned = 25
+Topic# 904>> number of words got assigned = 25
+Topic# 905>> number of words got assigned = 1
+Topic# 906>> number of words got assigned = 2
+Topic# 907>> number of words got assigned = 25
+Topic# 908>> number of words got assigned = 1
+Topic# 909>> number of words got assigned = 25
+Topic# 910>> number of words got assigned = 16
+Topic# 911>> number of words got assigned = 25
+Topic# 912>> number of words got assigned = 25
+Topic# 913>> ###################################### No words assigned!!!
+Topic# 914>> number of words got assigned = 12
+Topic# 915>> ###################################### No words assigned!!!
+Topic# 916>> number of words got assigned = 1
+Topic# 917>> number of words got assigned = 25
+Topic# 918>> number of words got assigned = 25
+Topic# 919>> number of words got assigned = 25
+Topic# 920>> number of words got assigned = 25
+Topic# 921>> number of words got assigned = 25
+Topic# 922>> number of words got assigned = 25
+Topic# 923>> number of words got assigned = 25
+Topic# 924>> number of words got assigned = 25
+Topic# 925>> number of words got assigned = 6
+Topic# 926>> number of words got assigned = 25
+Topic# 927>> number of words got assigned = 19
+Topic# 928>> number of words got assigned = 25
+Topic# 929>> number of words got assigned = 25
+Topic# 930>> ###################################### No words assigned!!!
+Topic# 931>> number of words got assigned = 1
+Topic# 932>> ###################################### No words assigned!!!
+Topic# 933>> number of words got assigned = 1
+Topic# 934>> number of words got assigned = 25
+Topic# 935>> number of words got assigned = 2
+Topic# 936>> number of words got assigned = 25
+Topic# 937>> number of words got assigned = 22
+Topic# 938>> number of words got assigned = 25
+Topic# 939>> number of words got assigned = 25
+Topic# 940>> number of words got assigned = 8
+Topic# 941>> number of words got assigned = 25
+Topic# 942>> number of words got assigned = 11
+Topic# 943>> number of words got assigned = 25
+Topic# 944>> number of words got assigned = 11
+Topic# 945>> number of words got assigned = 25
+Topic# 946>> number of words got assigned = 6
+Topic# 947>> number of words got assigned = 25
+Topic# 948>> number of words got assigned = 25
+Topic# 949>> ###################################### No words assigned!!!
+Topic# 950>> number of words got assigned = 25
+Topic# 951>> number of words got assigned = 1
+Topic# 952>> number of words got assigned = 25
+Topic# 953>> number of words got assigned = 25
+Topic# 954>> number of words got assigned = 25
+Topic# 955>> number of words got assigned = 9
+Topic# 956>> ###################################### No words assigned!!!
+Topic# 957>> ###################################### No words assigned!!!
+Topic# 958>> number of words got assigned = 25
+Topic# 959>> number of words got assigned = 25
+Topic# 960>> number of words got assigned = 25
+Topic# 961>> number of words got assigned = 22
+Topic# 962>> ###################################### No words assigned!!!
+Topic# 963>> number of words got assigned = 25
+Topic# 964>> number of words got assigned = 25
+Topic# 965>> number of words got assigned = 25
+Topic# 966>> number of words got assigned = 25
+Topic# 967>> number of words got assigned = 25
+Topic# 968>> number of words got assigned = 4
+Topic# 969>> number of words got assigned = 3
+Topic# 970>> number of words got assigned = 25
+Topic# 971>> number of words got assigned = 5
+Topic# 972>> number of words got assigned = 25
+Topic# 973>> ###################################### No words assigned!!!
+Topic# 974>> number of words got assigned = 25
+Topic# 975>> number of words got assigned = 25
+Topic# 976>> number of words got assigned = 16
+Topic# 977>> number of words got assigned = 25
+Topic# 978>> ###################################### No words assigned!!!
+Topic# 979>> number of words got assigned = 25
+Topic# 980>> number of words got assigned = 25
+Topic# 981>> number of words got assigned = 1
+Topic# 982>> number of words got assigned = 25
+Topic# 983>> number of words got assigned = 25
+Topic# 984>> number of words got assigned = 5
+Topic# 985>> number of words got assigned = 4
+Topic# 986>> number of words got assigned = 9
+Topic# 987>> number of words got assigned = 25
+Topic# 988>> number of words got assigned = 6
+Topic# 989>> number of words got assigned = 25
+Topic# 990>> number of words got assigned = 22
+Topic# 991>> number of words got assigned = 25
+Topic# 992>> number of words got assigned = 25
+Topic# 993>> number of words got assigned = 25
+Topic# 994>> number of words got assigned = 25
+Topic# 995>> number of words got assigned = 25
+Topic# 996>> number of words got assigned = 14
+Topic# 997>> number of words got assigned = 3
+Topic# 998>> number of words got assigned = 25
+Topic# 999>> number of words got assigned = 25
+Topic# 1000>> number of words got assigned = 25
+Topic# 1001>> number of words got assigned = 8
+Topic# 1002>> number of words got assigned = 25
+Topic# 1003>> number of words got assigned = 2
+Topic# 1004>> ###################################### No words assigned!!!
+Topic# 1005>> number of words got assigned = 25
+Topic# 1006>> ###################################### No words assigned!!!
+Topic# 1007>> number of words got assigned = 25
+Topic# 1008>> number of words got assigned = 25
+Topic# 1009>> number of words got assigned = 25
+Topic# 1010>> number of words got assigned = 25
+Topic# 1011>> number of words got assigned = 25
+Topic# 1012>> ###################################### No words assigned!!!
+Topic# 1013>> number of words got assigned = 25
+Topic# 1014>> number of words got assigned = 25
+Topic# 1015>> number of words got assigned = 25
+Topic# 1016>> number of words got assigned = 25
+Topic# 1017>> number of words got assigned = 25
+Topic# 1018>> number of words got assigned = 25
+Topic# 1019>> number of words got assigned = 25
+Topic# 1020>> number of words got assigned = 25
+Topic# 1021>> number of words got assigned = 25
+Topic# 1022>> number of words got assigned = 25
+Topic# 1023>> number of words got assigned = 25
+Topic# 1024>> number of words got assigned = 25
+Topic# 1025>> number of words got assigned = 25
+Topic# 1026>> number of words got assigned = 25
+Topic# 1027>> ###################################### No words assigned!!!
+Topic# 1028>> number of words got assigned = 25
+Topic# 1029>> number of words got assigned = 1
+Topic# 1030>> number of words got assigned = 25
+Topic# 1031>> number of words got assigned = 25
+Topic# 1032>> number of words got assigned = 25
+Topic# 1033>> number of words got assigned = 10
+Topic# 1034>> number of words got assigned = 25
+Topic# 1035>> number of words got assigned = 25
+Topic# 1036>> number of words got assigned = 25
+Topic# 1037>> number of words got assigned = 25
+Topic# 1038>> number of words got assigned = 25
+Topic# 1039>> ###################################### No words assigned!!!
+Topic# 1040>> number of words got assigned = 1
+Topic# 1041>> number of words got assigned = 25
+Topic# 1042>> number of words got assigned = 25
+Topic# 1043>> number of words got assigned = 5
+Topic# 1044>> number of words got assigned = 25
+Topic# 1045>> number of words got assigned = 4
+Topic# 1046>> number of words got assigned = 2
+Topic# 1047>> number of words got assigned = 25
+Topic# 1048>> number of words got assigned = 25
+Topic# 1049>> number of words got assigned = 25
+Topic# 1050>> number of words got assigned = 5
+Topic# 1051>> number of words got assigned = 25
+Topic# 1052>> number of words got assigned = 25
+Topic# 1053>> number of words got assigned = 25
+Topic# 1054>> number of words got assigned = 18
+Topic# 1055>> number of words got assigned = 25
+Topic# 1056>> number of words got assigned = 4
+Topic# 1057>> number of words got assigned = 2
+Topic# 1058>> number of words got assigned = 9
+Topic# 1059>> number of words got assigned = 25
+Topic# 1060>> number of words got assigned = 25
+Topic# 1061>> number of words got assigned = 25
+Topic# 1062>> ###################################### No words assigned!!!
+Topic# 1063>> number of words got assigned = 25
+Topic# 1064>> number of words got assigned = 25
+Topic# 1065>> number of words got assigned = 25
+Topic# 1066>> number of words got assigned = 25
+Topic# 1067>> number of words got assigned = 25
+Topic# 1068>> number of words got assigned = 25
+Topic# 1069>> number of words got assigned = 25
+Topic# 1070>> number of words got assigned = 25
+Topic# 1071>> number of words got assigned = 2
+Topic# 1072>> number of words got assigned = 7
+Topic# 1073>> ###################################### No words assigned!!!
+Topic# 1074>> number of words got assigned = 7
+Topic# 1075>> number of words got assigned = 2
+Topic# 1076>> ###################################### No words assigned!!!
+Topic# 1077>> number of words got assigned = 25
+Topic# 1078>> number of words got assigned = 25
+Topic# 1079>> number of words got assigned = 1
+Topic# 1080>> number of words got assigned = 25
+Topic# 1081>> number of words got assigned = 25
+Topic# 1082>> number of words got assigned = 18
+Topic# 1083>> number of words got assigned = 11
+Topic# 1084>> number of words got assigned = 25
+Topic# 1085>> number of words got assigned = 25
+Topic# 1086>> number of words got assigned = 25
+Topic# 1087>> number of words got assigned = 25
+Topic# 1088>> number of words got assigned = 19
+Topic# 1089>> number of words got assigned = 25
+Topic# 1090>> number of words got assigned = 25
+Topic# 1091>> ###################################### No words assigned!!!
+Topic# 1092>> number of words got assigned = 25
+Topic# 1093>> number of words got assigned = 25
+Topic# 1094>> ###################################### No words assigned!!!
+Topic# 1095>> number of words got assigned = 25
+Topic# 1096>> number of words got assigned = 25
+Topic# 1097>> number of words got assigned = 25
+Topic# 1098>> number of words got assigned = 25
+Topic# 1099>> number of words got assigned = 25
+Topic# 1100>> ###################################### No words assigned!!!
+Topic# 1101>> number of words got assigned = 1
+Topic# 1102>> number of words got assigned = 25
+Topic# 1103>> number of words got assigned = 4
+Topic# 1104>> number of words got assigned = 25
+Topic# 1105>> number of words got assigned = 5
+Topic# 1106>> number of words got assigned = 25
+Topic# 1107>> number of words got assigned = 25
+Topic# 1108>> number of words got assigned = 25
+Topic# 1109>> number of words got assigned = 23
+Topic# 1110>> number of words got assigned = 25
+Topic# 1111>> number of words got assigned = 25
+Topic# 1112>> number of words got assigned = 25
+Topic# 1113>> number of words got assigned = 25
+Topic# 1114>> number of words got assigned = 25
+Topic# 1115>> number of words got assigned = 3
+Topic# 1116>> ###################################### No words assigned!!!
+Topic# 1117>> number of words got assigned = 1
+Topic# 1118>> number of words got assigned = 25
+Topic# 1119>> number of words got assigned = 1
+Topic# 1120>> number of words got assigned = 22
+Topic# 1121>> number of words got assigned = 6
+Topic# 1122>> number of words got assigned = 25
+Topic# 1123>> number of words got assigned = 20
+Topic# 1124>> number of words got assigned = 25
+Topic# 1125>> number of words got assigned = 25
+Topic# 1126>> number of words got assigned = 25
+Topic# 1127>> number of words got assigned = 12
+Topic# 1128>> number of words got assigned = 6
+Topic# 1129>> number of words got assigned = 2
+Topic# 1130>> number of words got assigned = 25
+Topic# 1131>> number of words got assigned = 25
+Topic# 1132>> number of words got assigned = 25
+Topic# 1133>> number of words got assigned = 25
+Topic# 1134>> number of words got assigned = 6
+Topic# 1135>> number of words got assigned = 25
+Topic# 1136>> number of words got assigned = 25
+Topic# 1137>> number of words got assigned = 25
+Topic# 1138>> number of words got assigned = 10
+Topic# 1139>> number of words got assigned = 25
+Topic# 1140>> number of words got assigned = 25
+Topic# 1141>> number of words got assigned = 25
+Topic# 1142>> number of words got assigned = 25
+Topic# 1143>> number of words got assigned = 25
+Topic# 1144>> number of words got assigned = 25
+Topic# 1145>> number of words got assigned = 25
+Topic# 1146>> number of words got assigned = 25
+Topic# 1147>> ###################################### No words assigned!!!
+Topic# 1148>> number of words got assigned = 25
+Topic# 1149>> number of words got assigned = 25
+Topic# 1150>> number of words got assigned = 25
+Topic# 1151>> number of words got assigned = 25
+Topic# 1152>> ###################################### No words assigned!!!
+Topic# 1153>> number of words got assigned = 25
+Topic# 1154>> number of words got assigned = 25
+Topic# 1155>> number of words got assigned = 8
+Topic# 1156>> number of words got assigned = 25
+Topic# 1157>> number of words got assigned = 25
+Topic# 1158>> number of words got assigned = 25
+Topic# 1159>> number of words got assigned = 1
+Topic# 1160>> number of words got assigned = 5
+Topic# 1161>> number of words got assigned = 25
+Topic# 1162>> number of words got assigned = 25
+Topic# 1163>> number of words got assigned = 25
+Topic# 1164>> number of words got assigned = 22
+Topic# 1165>> number of words got assigned = 25
+Topic# 1166>> number of words got assigned = 8
+Topic# 1167>> number of words got assigned = 25
+Topic# 1168>> number of words got assigned = 19
+Topic# 1169>> number of words got assigned = 25
+Topic# 1170>> number of words got assigned = 25
+Topic# 1171>> number of words got assigned = 22
+Topic# 1172>> number of words got assigned = 7
+Topic# 1173>> number of words got assigned = 25
+Topic# 1174>> number of words got assigned = 2
+Topic# 1175>> number of words got assigned = 9
+Topic# 1176>> number of words got assigned = 25
+Topic# 1177>> ###################################### No words assigned!!!
+Topic# 1178>> number of words got assigned = 25
+Topic# 1179>> number of words got assigned = 25
+Topic# 1180>> number of words got assigned = 9
+Topic# 1181>> ###################################### No words assigned!!!
+Topic# 1182>> number of words got assigned = 11
+Topic# 1183>> number of words got assigned = 14
+Topic# 1184>> number of words got assigned = 25
+Topic# 1185>> number of words got assigned = 25
+Topic# 1186>> number of words got assigned = 25
+Topic# 1187>> number of words got assigned = 25
+Topic# 1188>> number of words got assigned = 25
+Topic# 1189>> number of words got assigned = 25
+Topic# 1190>> number of words got assigned = 25
+Topic# 1191>> number of words got assigned = 25
+Topic# 1192>> number of words got assigned = 25
+Topic# 1193>> number of words got assigned = 25
+Topic# 1194>> number of words got assigned = 25
+Topic# 1195>> number of words got assigned = 25
+Topic# 1196>> number of words got assigned = 25
+Topic# 1197>> ###################################### No words assigned!!!
+Topic# 1198>> number of words got assigned = 25
+Topic# 1199>> number of words got assigned = 25
+Topic# 1200>> number of words got assigned = 25
+Topic# 1201>> number of words got assigned = 25
+Topic# 1202>> number of words got assigned = 25
+Topic# 1203>> number of words got assigned = 17
+Topic# 1204>> number of words got assigned = 25
+Topic# 1205>> number of words got assigned = 25
+Topic# 1206>> number of words got assigned = 25
+Topic# 1207>> number of words got assigned = 8
+Topic# 1208>> number of words got assigned = 12
+Topic# 1209>> number of words got assigned = 25
+Topic# 1210>> number of words got assigned = 25
+Topic# 1211>> number of words got assigned = 4
+Topic# 1212>> number of words got assigned = 2
+Topic# 1213>> number of words got assigned = 1
+Topic# 1214>> number of words got assigned = 25
+Topic# 1215>> number of words got assigned = 25
+Topic# 1216>> number of words got assigned = 6
+Topic# 1217>> number of words got assigned = 25
+Topic# 1218>> number of words got assigned = 14
+Topic# 1219>> number of words got assigned = 25
+Topic# 1220>> number of words got assigned = 25
+Topic# 1221>> number of words got assigned = 25
+Topic# 1222>> number of words got assigned = 25
+Topic# 1223>> number of words got assigned = 25
+Topic# 1224>> number of words got assigned = 25
+Topic# 1225>> number of words got assigned = 25
+Topic# 1226>> number of words got assigned = 17
+Topic# 1227>> ###################################### No words assigned!!!
+Topic# 1228>> number of words got assigned = 25
+Topic# 1229>> number of words got assigned = 1
+Topic# 1230>> number of words got assigned = 25
+Topic# 1231>> number of words got assigned = 25
+Topic# 1232>> number of words got assigned = 13
+Topic# 1233>> number of words got assigned = 25
+Topic# 1234>> number of words got assigned = 25
+Topic# 1235>> number of words got assigned = 25
+Topic# 1236>> number of words got assigned = 25
+Topic# 1237>> number of words got assigned = 25
+Topic# 1238>> ###################################### No words assigned!!!
+Topic# 1239>> number of words got assigned = 25
+Topic# 1240>> number of words got assigned = 25
+Topic# 1241>> number of words got assigned = 1
+Topic# 1242>> number of words got assigned = 25
+Topic# 1243>> number of words got assigned = 25
+Topic# 1244>> number of words got assigned = 6
+Topic# 1245>> number of words got assigned = 13
+Topic# 1246>> number of words got assigned = 25
+Topic# 1247>> number of words got assigned = 9
+Topic# 1248>> number of words got assigned = 4
+Topic# 1249>> number of words got assigned = 25
+Topic# 1250>> number of words got assigned = 25
+Topic# 1251>> number of words got assigned = 25
+Topic# 1252>> number of words got assigned = 25
+Topic# 1253>> number of words got assigned = 9
+Topic# 1254>> number of words got assigned = 14
+Topic# 1255>> number of words got assigned = 1
+Topic# 1256>> number of words got assigned = 23
+Topic# 1257>> number of words got assigned = 1
+Topic# 1258>> number of words got assigned = 25
+Topic# 1259>> number of words got assigned = 25
+Topic# 1260>> number of words got assigned = 25
+Topic# 1261>> number of words got assigned = 25
+Topic# 1262>> number of words got assigned = 25
+Topic# 1263>> ###################################### No words assigned!!!
+Topic# 1264>> number of words got assigned = 25
+Topic# 1265>> number of words got assigned = 25
+Topic# 1266>> number of words got assigned = 25
+Topic# 1267>> number of words got assigned = 6
+Topic# 1268>> number of words got assigned = 14
+Topic# 1269>> number of words got assigned = 25
+Topic# 1270>> number of words got assigned = 25
+Topic# 1271>> number of words got assigned = 25
+Topic# 1272>> number of words got assigned = 7
+Topic# 1273>> number of words got assigned = 25
+Topic# 1274>> ###################################### No words assigned!!!
+Topic# 1275>> number of words got assigned = 14
+Topic# 1276>> number of words got assigned = 3
+Topic# 1277>> number of words got assigned = 9
+Topic# 1278>> number of words got assigned = 25
+Topic# 1279>> number of words got assigned = 25
+Topic# 1280>> number of words got assigned = 25
+Topic# 1281>> number of words got assigned = 25
+Topic# 1282>> number of words got assigned = 25
+Topic# 1283>> number of words got assigned = 25
+Topic# 1284>> number of words got assigned = 25
+Topic# 1285>> number of words got assigned = 25
+Topic# 1286>> number of words got assigned = 25
+Topic# 1287>> number of words got assigned = 2
+Topic# 1288>> number of words got assigned = 25
+Topic# 1289>> number of words got assigned = 25
+Topic# 1290>> number of words got assigned = 25
+Topic# 1291>> number of words got assigned = 4
+Topic# 1292>> number of words got assigned = 25
+Topic# 1293>> number of words got assigned = 4
+Topic# 1294>> number of words got assigned = 4
+Topic# 1295>> number of words got assigned = 25
+Topic# 1296>> number of words got assigned = 25
+Topic# 1297>> number of words got assigned = 18
+Topic# 1298>> number of words got assigned = 25
+Topic# 1299>> number of words got assigned = 25
+Topic# 1300>> ###################################### No words assigned!!!
+Topic# 1301>> number of words got assigned = 25
+Topic# 1302>> number of words got assigned = 1
+Topic# 1303>> number of words got assigned = 1
+Topic# 1304>> number of words got assigned = 25
+Topic# 1305>> number of words got assigned = 25
+Topic# 1306>> number of words got assigned = 25
+Topic# 1307>> number of words got assigned = 25
+Topic# 1308>> number of words got assigned = 25
+Topic# 1309>> number of words got assigned = 25
+Topic# 1310>> number of words got assigned = 25
+Topic# 1311>> number of words got assigned = 25
+Topic# 1312>> number of words got assigned = 25
+Topic# 1313>> number of words got assigned = 25
+Topic# 1314>> number of words got assigned = 25
+Topic# 1315>> number of words got assigned = 19
+Topic# 1316>> number of words got assigned = 6
+Topic# 1317>> number of words got assigned = 25
+Topic# 1318>> number of words got assigned = 25
+Topic# 1319>> ###################################### No words assigned!!!
+Topic# 1320>> number of words got assigned = 10
+Topic# 1321>> number of words got assigned = 25
+Topic# 1322>> number of words got assigned = 25
+Topic# 1323>> number of words got assigned = 4
+Topic# 1324>> number of words got assigned = 9
+Topic# 1325>> number of words got assigned = 25
+Topic# 1326>> number of words got assigned = 4
+Topic# 1327>> number of words got assigned = 25
+Topic# 1328>> number of words got assigned = 25
+Topic# 1329>> number of words got assigned = 7
+Topic# 1330>> number of words got assigned = 25
+Topic# 1331>> number of words got assigned = 25
+Topic# 1332>> number of words got assigned = 25
+Topic# 1333>> number of words got assigned = 25
+Topic# 1334>> number of words got assigned = 4
+Topic# 1335>> number of words got assigned = 14
+Topic# 1336>> number of words got assigned = 25
+Topic# 1337>> number of words got assigned = 25
+Topic# 1338>> ###################################### No words assigned!!!
+Topic# 1339>> ###################################### No words assigned!!!
+Topic# 1340>> number of words got assigned = 25
+Topic# 1341>> number of words got assigned = 15
+Topic# 1342>> number of words got assigned = 25
+Topic# 1343>> number of words got assigned = 25
+Topic# 1344>> number of words got assigned = 25
+Topic# 1345>> number of words got assigned = 25
+Topic# 1346>> number of words got assigned = 6
+Topic# 1347>> number of words got assigned = 5
+Topic# 1348>> number of words got assigned = 8
+Topic# 1349>> number of words got assigned = 25
+Topic# 1350>> number of words got assigned = 25
+Topic# 1351>> ###################################### No words assigned!!!
+Topic# 1352>> number of words got assigned = 25
+Topic# 1353>> number of words got assigned = 25
+Topic# 1354>> number of words got assigned = 25
+Topic# 1355>> number of words got assigned = 25
+Topic# 1356>> number of words got assigned = 25
+Topic# 1357>> number of words got assigned = 23
+Topic# 1358>> number of words got assigned = 25
+Topic# 1359>> number of words got assigned = 25
+Topic# 1360>> number of words got assigned = 25
+Topic# 1361>> number of words got assigned = 10
+Topic# 1362>> ###################################### No words assigned!!!
+Topic# 1363>> number of words got assigned = 25
+Topic# 1364>> number of words got assigned = 6
+Topic# 1365>> number of words got assigned = 25
+Topic# 1366>> number of words got assigned = 25
+Topic# 1367>> ###################################### No words assigned!!!
+Topic# 1368>> number of words got assigned = 2
+Topic# 1369>> number of words got assigned = 1
+Topic# 1370>> number of words got assigned = 5
+Topic# 1371>> number of words got assigned = 25
+Topic# 1372>> number of words got assigned = 25
+Topic# 1373>> number of words got assigned = 25
+Topic# 1374>> number of words got assigned = 2
+Topic# 1375>> number of words got assigned = 5
+Topic# 1376>> number of words got assigned = 25
+Topic# 1377>> number of words got assigned = 25
+Topic# 1378>> number of words got assigned = 25
+Topic# 1379>> ###################################### No words assigned!!!
+Topic# 1380>> number of words got assigned = 25
+Topic# 1381>> number of words got assigned = 25
+Topic# 1382>> number of words got assigned = 25
+Topic# 1383>> number of words got assigned = 1
+Topic# 1384>> number of words got assigned = 25
+Topic# 1385>> number of words got assigned = 25
+Topic# 1386>> number of words got assigned = 25
+Topic# 1387>> number of words got assigned = 3
+Topic# 1388>> number of words got assigned = 25
+Topic# 1389>> number of words got assigned = 4
+Topic# 1390>> number of words got assigned = 25
+Topic# 1391>> number of words got assigned = 25
+Topic# 1392>> number of words got assigned = 25
+Topic# 1393>> number of words got assigned = 25
+Topic# 1394>> number of words got assigned = 25
+Topic# 1395>> number of words got assigned = 25
+Topic# 1396>> number of words got assigned = 25
+Topic# 1397>> number of words got assigned = 24
+Topic# 1398>> number of words got assigned = 1
+Topic# 1399>> number of words got assigned = 25
+Topic# 1400>> number of words got assigned = 25
+Topic# 1401>> number of words got assigned = 25
+Topic# 1402>> number of words got assigned = 25
+Topic# 1403>> number of words got assigned = 25
+Topic# 1404>> ###################################### No words assigned!!!
+Topic# 1405>> number of words got assigned = 6
+Topic# 1406>> ###################################### No words assigned!!!
+Topic# 1407>> number of words got assigned = 25
+Topic# 1408>> number of words got assigned = 25
+Topic# 1409>> number of words got assigned = 25
+Topic# 1410>> number of words got assigned = 25
+Topic# 1411>> number of words got assigned = 25
+Topic# 1412>> number of words got assigned = 25
+Topic# 1413>> number of words got assigned = 25
+Topic# 1414>> number of words got assigned = 2
+Topic# 1415>> number of words got assigned = 25
+Topic# 1416>> number of words got assigned = 25
+Topic# 1417>> number of words got assigned = 2
+Topic# 1418>> ###################################### No words assigned!!!
+Topic# 1419>> number of words got assigned = 25
+Topic# 1420>> ###################################### No words assigned!!!
+Topic# 1421>> number of words got assigned = 25
+Topic# 1422>> number of words got assigned = 25
+Topic# 1423>> number of words got assigned = 25
+Topic# 1424>> number of words got assigned = 25
+Topic# 1425>> number of words got assigned = 25
+Topic# 1426>> number of words got assigned = 17
+Topic# 1427>> ###################################### No words assigned!!!
+Topic# 1428>> number of words got assigned = 16
+Topic# 1429>> number of words got assigned = 25
+Topic# 1430>> number of words got assigned = 1
+Topic# 1431>> number of words got assigned = 25
+Topic# 1432>> number of words got assigned = 3
+Topic# 1433>> number of words got assigned = 7
+Topic# 1434>> number of words got assigned = 5
+Topic# 1435>> number of words got assigned = 25
+Topic# 1436>> number of words got assigned = 25
+Topic# 1437>> number of words got assigned = 25
+Topic# 1438>> number of words got assigned = 25
+Topic# 1439>> number of words got assigned = 25
+Topic# 1440>> number of words got assigned = 25
+Topic# 1441>> number of words got assigned = 25
+Topic# 1442>> number of words got assigned = 12
+Topic# 1443>> number of words got assigned = 25
+Topic# 1444>> number of words got assigned = 25
+Topic# 1445>> number of words got assigned = 25
+Topic# 1446>> ###################################### No words assigned!!!
+Topic# 1447>> number of words got assigned = 25
+Topic# 1448>> number of words got assigned = 2
+Topic# 1449>> number of words got assigned = 9
+Topic# 1450>> number of words got assigned = 25
+Topic# 1451>> number of words got assigned = 25
+Topic# 1452>> number of words got assigned = 25
+Topic# 1453>> number of words got assigned = 25
+Topic# 1454>> number of words got assigned = 4
+Topic# 1455>> number of words got assigned = 25
+Topic# 1456>> number of words got assigned = 9
+Topic# 1457>> number of words got assigned = 25
+Topic# 1458>> number of words got assigned = 25
+Topic# 1459>> number of words got assigned = 25
+Topic# 1460>> number of words got assigned = 1
+Topic# 1461>> number of words got assigned = 10
+Topic# 1462>> number of words got assigned = 25
+Topic# 1463>> ###################################### No words assigned!!!
+Topic# 1464>> number of words got assigned = 25
+Topic# 1465>> number of words got assigned = 25
+Topic# 1466>> number of words got assigned = 17
+Topic# 1467>> number of words got assigned = 5
+Topic# 1468>> number of words got assigned = 1
+Topic# 1469>> ###################################### No words assigned!!!
+Topic# 1470>> number of words got assigned = 1
+Topic# 1471>> number of words got assigned = 9
+Topic# 1472>> number of words got assigned = 14
+Topic# 1473>> number of words got assigned = 25
+Topic# 1474>> number of words got assigned = 25
+Topic# 1475>> number of words got assigned = 4
+Topic# 1476>> number of words got assigned = 5
+Topic# 1477>> number of words got assigned = 19
+Topic# 1478>> number of words got assigned = 11
+Topic# 1479>> number of words got assigned = 25
+Topic# 1480>> number of words got assigned = 25
+Topic# 1481>> number of words got assigned = 25
+Topic# 1482>> number of words got assigned = 25
+Topic# 1483>> number of words got assigned = 25
+Topic# 1484>> number of words got assigned = 16
+Topic# 1485>> number of words got assigned = 25
+Topic# 1486>> number of words got assigned = 2
+Topic# 1487>> number of words got assigned = 8
+Topic# 1488>> number of words got assigned = 25
+Topic# 1489>> number of words got assigned = 2
+Topic# 1490>> number of words got assigned = 5
+Topic# 1491>> number of words got assigned = 25
+Topic# 1492>> number of words got assigned = 25
+Topic# 1493>> number of words got assigned = 25
+Topic# 1494>> number of words got assigned = 17
+Topic# 1495>> number of words got assigned = 25
+Topic# 1496>> number of words got assigned = 10
+Topic# 1497>> number of words got assigned = 25
+Topic# 1498>> number of words got assigned = 1
+Topic# 1499>> number of words got assigned = 25
+Topic# 1500>> number of words got assigned = 25
+Topic# 1501>> ###################################### No words assigned!!!
+Topic# 1502>> ###################################### No words assigned!!!
+Topic# 1503>> number of words got assigned = 6
+Topic# 1504>> number of words got assigned = 25
+Topic# 1505>> number of words got assigned = 25
+Topic# 1506>> number of words got assigned = 25
+Topic# 1507>> number of words got assigned = 6
+Topic# 1508>> number of words got assigned = 2
+Topic# 1509>> number of words got assigned = 3
+Topic# 1510>> number of words got assigned = 1
+Topic# 1511>> number of words got assigned = 25
+Topic# 1512>> number of words got assigned = 14
+Topic# 1513>> ###################################### No words assigned!!!
+Topic# 1514>> number of words got assigned = 25
+Topic# 1515>> number of words got assigned = 25
+Topic# 1516>> number of words got assigned = 25
+Topic# 1517>> number of words got assigned = 25
+Topic# 1518>> number of words got assigned = 5
+Topic# 1519>> number of words got assigned = 10
+Topic# 1520>> number of words got assigned = 1
+Topic# 1521>> number of words got assigned = 25
+Topic# 1522>> number of words got assigned = 25
+Topic# 1523>> ###################################### No words assigned!!!
+Topic# 1524>> number of words got assigned = 25
+Topic# 1525>> number of words got assigned = 16
+Topic# 1526>> number of words got assigned = 22
+Topic# 1527>> ###################################### No words assigned!!!
+Topic# 1528>> number of words got assigned = 4
+Topic# 1529>> ###################################### No words assigned!!!
+Topic# 1530>> number of words got assigned = 25
+Topic# 1531>> number of words got assigned = 25
+Topic# 1532>> number of words got assigned = 9
+Topic# 1533>> number of words got assigned = 1
+Topic# 1534>> ###################################### No words assigned!!!
+Topic# 1535>> number of words got assigned = 25
+Topic# 1536>> number of words got assigned = 25
+Topic# 1537>> number of words got assigned = 24
+Topic# 1538>> number of words got assigned = 12
+Topic# 1539>> number of words got assigned = 25
+Topic# 1540>> ###################################### No words assigned!!!
+Topic# 1541>> number of words got assigned = 3
+Topic# 1542>> number of words got assigned = 25
+Topic# 1543>> number of words got assigned = 1
+Topic# 1544>> number of words got assigned = 25
+Topic# 1545>> number of words got assigned = 25
+Topic# 1546>> number of words got assigned = 9
+Topic# 1547>> number of words got assigned = 25
+Topic# 1548>> number of words got assigned = 25
+Topic# 1549>> ###################################### No words assigned!!!
+Topic# 1550>> number of words got assigned = 13
+Topic# 1551>> ###################################### No words assigned!!!
+Topic# 1552>> number of words got assigned = 25
+Topic# 1553>> ###################################### No words assigned!!!
+Topic# 1554>> number of words got assigned = 25
+Topic# 1555>> number of words got assigned = 25
+Topic# 1556>> number of words got assigned = 5
+Topic# 1557>> number of words got assigned = 19
+Topic# 1558>> number of words got assigned = 1
+Topic# 1559>> number of words got assigned = 12
+Topic# 1560>> number of words got assigned = 1
+Topic# 1561>> number of words got assigned = 25
+Topic# 1562>> number of words got assigned = 25
+Topic# 1563>> ###################################### No words assigned!!!
+Topic# 1564>> number of words got assigned = 25
+Topic# 1565>> number of words got assigned = 25
+Topic# 1566>> number of words got assigned = 25
+Topic# 1567>> number of words got assigned = 4
+Topic# 1568>> ###################################### No words assigned!!!
+Topic# 1569>> number of words got assigned = 25
+Topic# 1570>> number of words got assigned = 25
+Topic# 1571>> number of words got assigned = 25
+Topic# 1572>> number of words got assigned = 25
+Topic# 1573>> number of words got assigned = 25
+Topic# 1574>> number of words got assigned = 25
+Topic# 1575>> number of words got assigned = 25
+Topic# 1576>> ###################################### No words assigned!!!
+Topic# 1577>> number of words got assigned = 19
+Topic# 1578>> number of words got assigned = 6
+Topic# 1579>> number of words got assigned = 25
+Topic# 1580>> number of words got assigned = 25
+Topic# 1581>> number of words got assigned = 7
+Topic# 1582>> number of words got assigned = 2
+Topic# 1583>> ###################################### No words assigned!!!
+Topic# 1584>> ###################################### No words assigned!!!
+Topic# 1585>> number of words got assigned = 25
+Topic# 1586>> number of words got assigned = 25
+Topic# 1587>> number of words got assigned = 10
+Topic# 1588>> ###################################### No words assigned!!!
+Topic# 1589>> number of words got assigned = 25
+Topic# 1590>> number of words got assigned = 25
+Topic# 1591>> ###################################### No words assigned!!!
+Topic# 1592>> ###################################### No words assigned!!!
+Topic# 1593>> number of words got assigned = 25
+Topic# 1594>> ###################################### No words assigned!!!
+Topic# 1595>> number of words got assigned = 11
+Topic# 1596>> number of words got assigned = 6
+Topic# 1597>> number of words got assigned = 25
+Topic# 1598>> number of words got assigned = 25
+Topic# 1599>> number of words got assigned = 25
+Topic# 1600>> number of words got assigned = 1
+Topic# 1601>> number of words got assigned = 25
+Topic# 1602>> number of words got assigned = 3
+Topic# 1603>> ###################################### No words assigned!!!
+Topic# 1604>> number of words got assigned = 8
+Topic# 1605>> number of words got assigned = 1
+Topic# 1606>> number of words got assigned = 25
+Topic# 1607>> number of words got assigned = 25
+Topic# 1608>> number of words got assigned = 25
+Topic# 1609>> number of words got assigned = 25
+Topic# 1610>> number of words got assigned = 9
+Topic# 1611>> number of words got assigned = 25
+Topic# 1612>> number of words got assigned = 25
+Topic# 1613>> number of words got assigned = 25
+Topic# 1614>> number of words got assigned = 25
+Topic# 1615>> number of words got assigned = 25
+Topic# 1616>> number of words got assigned = 6
+Topic# 1617>> ###################################### No words assigned!!!
+Topic# 1618>> number of words got assigned = 25
+Topic# 1619>> number of words got assigned = 25
+Topic# 1620>> number of words got assigned = 8
+Topic# 1621>> number of words got assigned = 2
+Topic# 1622>> number of words got assigned = 25
+Topic# 1623>> ###################################### No words assigned!!!
+Topic# 1624>> ###################################### No words assigned!!!
+Topic# 1625>> number of words got assigned = 15
+Topic# 1626>> number of words got assigned = 16
+Topic# 1627>> number of words got assigned = 25
+Topic# 1628>> number of words got assigned = 25
+Topic# 1629>> number of words got assigned = 25
+Topic# 1630>> number of words got assigned = 2
+Topic# 1631>> number of words got assigned = 2
+Topic# 1632>> ###################################### No words assigned!!!
+Topic# 1633>> number of words got assigned = 25
+Topic# 1634>> number of words got assigned = 25
+Topic# 1635>> number of words got assigned = 25
+Topic# 1636>> number of words got assigned = 6
+Topic# 1637>> number of words got assigned = 9
+Topic# 1638>> ###################################### No words assigned!!!
+Topic# 1639>> number of words got assigned = 25
+Topic# 1640>> number of words got assigned = 7
+Topic# 1641>> number of words got assigned = 25
+Topic# 1642>> number of words got assigned = 25
+Topic# 1643>> number of words got assigned = 25
+Topic# 1644>> number of words got assigned = 25
+Topic# 1645>> number of words got assigned = 25
+Topic# 1646>> number of words got assigned = 12
+Topic# 1647>> number of words got assigned = 2
+Topic# 1648>> number of words got assigned = 25
+Topic# 1649>> number of words got assigned = 25
+Topic# 1650>> number of words got assigned = 19
+Topic# 1651>> number of words got assigned = 25
+Topic# 1652>> number of words got assigned = 25
+Topic# 1653>> number of words got assigned = 2
+Topic# 1654>> ###################################### No words assigned!!!
+Topic# 1655>> number of words got assigned = 25
+Topic# 1656>> number of words got assigned = 25
+Topic# 1657>> number of words got assigned = 25
+Topic# 1658>> number of words got assigned = 11
+Topic# 1659>> number of words got assigned = 8
+Topic# 1660>> number of words got assigned = 25
+Topic# 1661>> number of words got assigned = 25
+Topic# 1662>> number of words got assigned = 25
+Topic# 1663>> ###################################### No words assigned!!!
+Topic# 1664>> number of words got assigned = 25
+Topic# 1665>> number of words got assigned = 19
+Topic# 1666>> ###################################### No words assigned!!!
+Topic# 1667>> number of words got assigned = 25
+Topic# 1668>> ###################################### No words assigned!!!
+Topic# 1669>> number of words got assigned = 25
+Topic# 1670>> number of words got assigned = 25
+Topic# 1671>> number of words got assigned = 25
+Topic# 1672>> ###################################### No words assigned!!!
+Topic# 1673>> ###################################### No words assigned!!!
+Topic# 1674>> number of words got assigned = 12
+Topic# 1675>> number of words got assigned = 25
+Topic# 1676>> number of words got assigned = 14
+Topic# 1677>> number of words got assigned = 25
+Topic# 1678>> number of words got assigned = 25
+Topic# 1679>> number of words got assigned = 17
+Topic# 1680>> ###################################### No words assigned!!!
+Topic# 1681>> ###################################### No words assigned!!!
+Topic# 1682>> number of words got assigned = 25
+Topic# 1683>> number of words got assigned = 25
+Topic# 1684>> number of words got assigned = 25
+Topic# 1685>> number of words got assigned = 1
+Topic# 1686>> number of words got assigned = 25
+Topic# 1687>> number of words got assigned = 25
+Topic# 1688>> ###################################### No words assigned!!!
+Topic# 1689>> number of words got assigned = 25
+Topic# 1690>> number of words got assigned = 11
+Topic# 1691>> number of words got assigned = 25
+Topic# 1692>> number of words got assigned = 25
+Topic# 1693>> number of words got assigned = 25
+Topic# 1694>> number of words got assigned = 19
+Topic# 1695>> number of words got assigned = 3
+Topic# 1696>> number of words got assigned = 13
+Topic# 1697>> number of words got assigned = 25
+Topic# 1698>> number of words got assigned = 1
+Topic# 1699>> number of words got assigned = 25
+Topic# 1700>> number of words got assigned = 18
+Topic# 1701>> ###################################### No words assigned!!!
+Topic# 1702>> number of words got assigned = 25
+Topic# 1703>> number of words got assigned = 21
+Topic# 1704>> number of words got assigned = 7
+Topic# 1705>> number of words got assigned = 25
+Topic# 1706>> number of words got assigned = 25
+Topic# 1707>> number of words got assigned = 25
+Topic# 1708>> number of words got assigned = 1
+Topic# 1709>> number of words got assigned = 25
+Topic# 1710>> number of words got assigned = 25
+Topic# 1711>> ###################################### No words assigned!!!
+Topic# 1712>> number of words got assigned = 25
+Topic# 1713>> number of words got assigned = 4
+Topic# 1714>> number of words got assigned = 25
+Topic# 1715>> number of words got assigned = 25
+Topic# 1716>> number of words got assigned = 1
+Topic# 1717>> number of words got assigned = 25
+Topic# 1718>> number of words got assigned = 3
+Topic# 1719>> number of words got assigned = 10
+Topic# 1720>> number of words got assigned = 25
+Topic# 1721>> number of words got assigned = 25
+Topic# 1722>> number of words got assigned = 25
+Topic# 1723>> number of words got assigned = 5
+Topic# 1724>> number of words got assigned = 25
+Topic# 1725>> number of words got assigned = 10
+Topic# 1726>> number of words got assigned = 25
+Topic# 1727>> number of words got assigned = 25
+Topic# 1728>> number of words got assigned = 16
+Topic# 1729>> number of words got assigned = 25
+Topic# 1730>> number of words got assigned = 25
+Topic# 1731>> number of words got assigned = 25
+Topic# 1732>> ###################################### No words assigned!!!
+Topic# 1733>> number of words got assigned = 2
+Topic# 1734>> number of words got assigned = 25
+Topic# 1735>> ###################################### No words assigned!!!
+Topic# 1736>> number of words got assigned = 25
+Topic# 1737>> number of words got assigned = 25
+Topic# 1738>> number of words got assigned = 5
+Topic# 1739>> number of words got assigned = 25
+Topic# 1740>> ###################################### No words assigned!!!
+Topic# 1741>> number of words got assigned = 25
+Topic# 1742>> number of words got assigned = 7
+Topic# 1743>> number of words got assigned = 25
+Topic# 1744>> number of words got assigned = 25
+Topic# 1745>> ###################################### No words assigned!!!
+Topic# 1746>> number of words got assigned = 25
+Topic# 1747>> number of words got assigned = 25
+Topic# 1748>> number of words got assigned = 9
+Topic# 1749>> number of words got assigned = 25
+Topic# 1750>> number of words got assigned = 25
+Topic# 1751>> number of words got assigned = 25
+Topic# 1752>> number of words got assigned = 25
+Topic# 1753>> number of words got assigned = 25
+Topic# 1754>> number of words got assigned = 25
+Topic# 1755>> number of words got assigned = 5
+Topic# 1756>> number of words got assigned = 25
+Topic# 1757>> number of words got assigned = 25
+Topic# 1758>> number of words got assigned = 25
+Topic# 1759>> number of words got assigned = 25
+Topic# 1760>> number of words got assigned = 25
+Topic# 1761>> number of words got assigned = 25
+Topic# 1762>> number of words got assigned = 25
+Topic# 1763>> number of words got assigned = 25
+Topic# 1764>> number of words got assigned = 25
+Topic# 1765>> ###################################### No words assigned!!!
+Topic# 1766>> number of words got assigned = 25
+Topic# 1767>> number of words got assigned = 25
+Topic# 1768>> number of words got assigned = 25
+Topic# 1769>> number of words got assigned = 25
+Topic# 1770>> ###################################### No words assigned!!!
+Topic# 1771>> number of words got assigned = 25
+Topic# 1772>> number of words got assigned = 25
+Topic# 1773>> number of words got assigned = 25
+Topic# 1774>> number of words got assigned = 6
+Topic# 1775>> number of words got assigned = 13
+Topic# 1776>> number of words got assigned = 1
+Topic# 1777>> number of words got assigned = 25
+Topic# 1778>> number of words got assigned = 11
+Topic# 1779>> ###################################### No words assigned!!!
+Topic# 1780>> number of words got assigned = 1
+Topic# 1781>> ###################################### No words assigned!!!
+Topic# 1782>> number of words got assigned = 11
+Topic# 1783>> number of words got assigned = 5
+Topic# 1784>> number of words got assigned = 25
+Topic# 1785>> number of words got assigned = 25
+Topic# 1786>> number of words got assigned = 25
+Topic# 1787>> number of words got assigned = 25
+Topic# 1788>> ###################################### No words assigned!!!
+Topic# 1789>> number of words got assigned = 25
+Topic# 1790>> ###################################### No words assigned!!!
+Topic# 1791>> number of words got assigned = 20
+Topic# 1792>> number of words got assigned = 25
+Topic# 1793>> number of words got assigned = 4
+Topic# 1794>> number of words got assigned = 7
+Topic# 1795>> number of words got assigned = 25
+Topic# 1796>> ###################################### No words assigned!!!
+Topic# 1797>> number of words got assigned = 3
+Topic# 1798>> number of words got assigned = 2
+Topic# 1799>> number of words got assigned = 25
+Topic# 1800>> number of words got assigned = 25
+Topic# 1801>> number of words got assigned = 4
+Topic# 1802>> number of words got assigned = 25
+Topic# 1803>> ###################################### No words assigned!!!
+Topic# 1804>> number of words got assigned = 14
+Topic# 1805>> number of words got assigned = 1
+Topic# 1806>> number of words got assigned = 25
+Topic# 1807>> number of words got assigned = 25
+Topic# 1808>> number of words got assigned = 25
+Topic# 1809>> number of words got assigned = 10
+Topic# 1810>> ###################################### No words assigned!!!
+Topic# 1811>> number of words got assigned = 25
+Topic# 1812>> number of words got assigned = 25
+Topic# 1813>> number of words got assigned = 25
+Topic# 1814>> number of words got assigned = 25
+Topic# 1815>> ###################################### No words assigned!!!
+Topic# 1816>> ###################################### No words assigned!!!
+Topic# 1817>> number of words got assigned = 25
+Topic# 1818>> number of words got assigned = 25
+Topic# 1819>> number of words got assigned = 8
+Topic# 1820>> number of words got assigned = 16
+Topic# 1821>> number of words got assigned = 25
+Topic# 1822>> ###################################### No words assigned!!!
+Topic# 1823>> number of words got assigned = 25
+Topic# 1824>> number of words got assigned = 4
+Topic# 1825>> number of words got assigned = 25
+Topic# 1826>> number of words got assigned = 3
+Topic# 1827>> number of words got assigned = 25
+Topic# 1828>> number of words got assigned = 8
+Topic# 1829>> number of words got assigned = 23
+Topic# 1830>> number of words got assigned = 25
+Topic# 1831>> ###################################### No words assigned!!!
+Topic# 1832>> number of words got assigned = 1
+Topic# 1833>> ###################################### No words assigned!!!
+Topic# 1834>> number of words got assigned = 25
+Topic# 1835>> number of words got assigned = 25
+Topic# 1836>> number of words got assigned = 25
+Topic# 1837>> number of words got assigned = 25
+Topic# 1838>> number of words got assigned = 25
+Topic# 1839>> ###################################### No words assigned!!!
+Topic# 1840>> ###################################### No words assigned!!!
+Topic# 1841>> number of words got assigned = 25
+Topic# 1842>> number of words got assigned = 25
+Topic# 1843>> number of words got assigned = 25
+Topic# 1844>> number of words got assigned = 8
+Topic# 1845>> number of words got assigned = 25
+Topic# 1846>> number of words got assigned = 1
+Topic# 1847>> number of words got assigned = 25
+Topic# 1848>> number of words got assigned = 25
+Topic# 1849>> number of words got assigned = 25
+Topic# 1850>> ###################################### No words assigned!!!
+Topic# 1851>> number of words got assigned = 25
+Topic# 1852>> number of words got assigned = 25
+Topic# 1853>> ###################################### No words assigned!!!
+Topic# 1854>> number of words got assigned = 25
+Topic# 1855>> ###################################### No words assigned!!!
+Topic# 1856>> number of words got assigned = 25
+Topic# 1857>> number of words got assigned = 9
+Topic# 1858>> number of words got assigned = 25
+Topic# 1859>> number of words got assigned = 25
+Topic# 1860>> number of words got assigned = 2
+Topic# 1861>> number of words got assigned = 25
+Topic# 1862>> ###################################### No words assigned!!!
+Topic# 1863>> number of words got assigned = 20
+Topic# 1864>> number of words got assigned = 25
+Topic# 1865>> number of words got assigned = 25
+Topic# 1866>> ###################################### No words assigned!!!
+Topic# 1867>> number of words got assigned = 25
+Topic# 1868>> number of words got assigned = 9
+Topic# 1869>> number of words got assigned = 25
+Topic# 1870>> number of words got assigned = 25
+Topic# 1871>> number of words got assigned = 14
+Topic# 1872>> number of words got assigned = 25
+Topic# 1873>> number of words got assigned = 25
+Topic# 1874>> number of words got assigned = 25
+Topic# 1875>> number of words got assigned = 25
+Topic# 1876>> number of words got assigned = 4
+Topic# 1877>> number of words got assigned = 25
+Topic# 1878>> number of words got assigned = 25
+Topic# 1879>> number of words got assigned = 25
+Topic# 1880>> number of words got assigned = 25
+Topic# 1881>> number of words got assigned = 11
+Topic# 1882>> number of words got assigned = 25
+Topic# 1883>> ###################################### No words assigned!!!
+Topic# 1884>> ###################################### No words assigned!!!
+Topic# 1885>> number of words got assigned = 25
+Topic# 1886>> number of words got assigned = 25
+Topic# 1887>> number of words got assigned = 12
+Topic# 1888>> number of words got assigned = 2
+Topic# 1889>> number of words got assigned = 25
+Topic# 1890>> number of words got assigned = 25
+Topic# 1891>> number of words got assigned = 25
+Topic# 1892>> number of words got assigned = 25
+Topic# 1893>> number of words got assigned = 3
+Topic# 1894>> number of words got assigned = 25
+Topic# 1895>> number of words got assigned = 1
+Topic# 1896>> number of words got assigned = 6
+Topic# 1897>> ###################################### No words assigned!!!
+Topic# 1898>> number of words got assigned = 24
+Topic# 1899>> number of words got assigned = 11
+Topic# 1900>> number of words got assigned = 25
+Topic# 1901>> number of words got assigned = 19
+Topic# 1902>> number of words got assigned = 25
+Topic# 1903>> number of words got assigned = 7
+Topic# 1904>> number of words got assigned = 25
+Topic# 1905>> number of words got assigned = 8
+Topic# 1906>> number of words got assigned = 1
+Topic# 1907>> number of words got assigned = 6
+Topic# 1908>> number of words got assigned = 25
+Topic# 1909>> number of words got assigned = 25
+Topic# 1910>> number of words got assigned = 25
+Topic# 1911>> number of words got assigned = 25
+Topic# 1912>> number of words got assigned = 25
+Topic# 1913>> number of words got assigned = 25
+Topic# 1914>> number of words got assigned = 8
+Topic# 1915>> number of words got assigned = 3
+Topic# 1916>> number of words got assigned = 21
+Topic# 1917>> number of words got assigned = 25
+Topic# 1918>> number of words got assigned = 25
+Topic# 1919>> number of words got assigned = 25
+Topic# 1920>> number of words got assigned = 25
+Topic# 1921>> number of words got assigned = 6
+Topic# 1922>> ###################################### No words assigned!!!
+Topic# 1923>> number of words got assigned = 25
+Topic# 1924>> number of words got assigned = 25
+Topic# 1925>> number of words got assigned = 25
+Topic# 1926>> number of words got assigned = 25
+Topic# 1927>> number of words got assigned = 25
+Topic# 1928>> number of words got assigned = 1
+Topic# 1929>> number of words got assigned = 21
+Topic# 1930>> ###################################### No words assigned!!!
+Topic# 1931>> number of words got assigned = 11
+Topic# 1932>> number of words got assigned = 25
+Topic# 1933>> number of words got assigned = 25
+Topic# 1934>> number of words got assigned = 6
+Topic# 1935>> number of words got assigned = 25
+Topic# 1936>> number of words got assigned = 12
+Topic# 1937>> number of words got assigned = 25
+Topic# 1938>> number of words got assigned = 25
+Topic# 1939>> number of words got assigned = 25
+Topic# 1940>> number of words got assigned = 25
+Topic# 1941>> number of words got assigned = 25
+Topic# 1942>> number of words got assigned = 25
+Topic# 1943>> number of words got assigned = 25
+Topic# 1944>> number of words got assigned = 25
+Topic# 1945>> number of words got assigned = 25
+Topic# 1946>> number of words got assigned = 7
+Topic# 1947>> number of words got assigned = 25
+Topic# 1948>> number of words got assigned = 25
+Topic# 1949>> number of words got assigned = 25
+Topic# 1950>> number of words got assigned = 25
+Topic# 1951>> number of words got assigned = 13
+Topic# 1952>> ###################################### No words assigned!!!
+Topic# 1953>> number of words got assigned = 25
+Topic# 1954>> number of words got assigned = 2
+Topic# 1955>> number of words got assigned = 6
+Topic# 1956>> ###################################### No words assigned!!!
+Topic# 1957>> number of words got assigned = 3
+Topic# 1958>> number of words got assigned = 25
+Topic# 1959>> ###################################### No words assigned!!!
+Topic# 1960>> number of words got assigned = 25
+Topic# 1961>> number of words got assigned = 25
+Topic# 1962>> number of words got assigned = 25
+Topic# 1963>> number of words got assigned = 25
+Topic# 1964>> number of words got assigned = 5
+Topic# 1965>> number of words got assigned = 25
+Topic# 1966>> number of words got assigned = 10
+Topic# 1967>> number of words got assigned = 24
+Topic# 1968>> ###################################### No words assigned!!!
+Topic# 1969>> number of words got assigned = 25
+Topic# 1970>> number of words got assigned = 25
+Topic# 1971>> number of words got assigned = 25
+Topic# 1972>> number of words got assigned = 25
+Topic# 1973>> number of words got assigned = 25
+Topic# 1974>> ###################################### No words assigned!!!
+Topic# 1975>> ###################################### No words assigned!!!
+Topic# 1976>> number of words got assigned = 25
+Topic# 1977>> number of words got assigned = 25
+Topic# 1978>> number of words got assigned = 25
+Topic# 1979>> ###################################### No words assigned!!!
+Topic# 1980>> number of words got assigned = 2
+Topic# 1981>> number of words got assigned = 2
+Topic# 1982>> number of words got assigned = 11
+Topic# 1983>> ###################################### No words assigned!!!
+Topic# 1984>> number of words got assigned = 25
+Topic# 1985>> number of words got assigned = 25
+Topic# 1986>> ###################################### No words assigned!!!
+Topic# 1987>> ###################################### No words assigned!!!
+Topic# 1988>> number of words got assigned = 25
+Topic# 1989>> ###################################### No words assigned!!!
+Topic# 1990>> number of words got assigned = 25
+Topic# 1991>> number of words got assigned = 25
+Topic# 1992>> ###################################### No words assigned!!!
+Topic# 1993>> number of words got assigned = 25
+Topic# 1994>> number of words got assigned = 2
+Topic# 1995>> number of words got assigned = 1
+Topic# 1996>> number of words got assigned = 25
+Topic# 1997>> number of words got assigned = 1
+Topic# 1998>> number of words got assigned = 25
+Topic# 1999>> number of words got assigned = 22
